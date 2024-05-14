@@ -23,5 +23,7 @@ int mahasiswa::nim = 229;
 
 void mahasiswa::printAll()
 {
-    
+    cout << "ID : " << id << endl;
+    cout << "Nama : " << nama << endl;
+    cout << endl;
 }
