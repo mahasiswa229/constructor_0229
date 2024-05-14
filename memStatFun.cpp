@@ -23,7 +23,7 @@ class mahasiswa
     }
 };
 
-int mahasiswa::nim = 229;
+int mahasiswa::nim = 0;
 
 void mahasiswa::setID()
 {
@@ -37,3 +37,7 @@ void mahasiswa::printAll()
     cout << endl;
 }
 
+int main()
+{
+    
+}
