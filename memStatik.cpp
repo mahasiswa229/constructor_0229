@@ -46,3 +46,9 @@ int main()
     mhs4.printAll();
     return 0;
 }
+int mahasiswa::nim = 0;
+
+void mahasiswa::setID()
+{
+    
+}
