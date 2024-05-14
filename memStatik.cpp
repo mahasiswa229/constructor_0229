@@ -21,4 +21,7 @@ class mahasiswa
 
 int mahasiswa::nim = 229;
 
-
+void mahasiswa::printAll()
+{
+    
+}
