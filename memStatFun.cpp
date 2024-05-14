@@ -23,3 +23,8 @@ class mahasiswa
     }
 };
 
+void mahasiswa::setID()
+{
+    id = ++nim;
+}
+
